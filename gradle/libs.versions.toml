@@ -17,6 +17,7 @@ koinCore = "4.1.1"
 kotlin = "2.3.0"
 kotlinx-coroutines = "1.10.2"
 kotlinxDatetime = "0.7.1"
+ktorClientJava = "3.4.0"
 ktorClientOkhttp = "3.4.0"
 material3 = "1.10.0-alpha05"
 uiTextGoogleFonts = "1.7.0"
@@ -48,6 +49,7 @@ ktor-client-content-negotiation = { module = "io.ktor:ktor-client-content-negoti
 ktor-client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktorClientOkhttp" }
 ktor-client-darwin = { module = "io.ktor:ktor-client-darwin", version.ref = "ktorClientOkhttp" }
 ktor-client-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref = "ktorClientOkhttp" }
+ktor-ktor-client-java = { module = "io.ktor:ktor-client-java", version.ref = "ktorClientJava" }
 ktor-serialization-kotlinx-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktorClientOkhttp" }
 
 [plugins]
