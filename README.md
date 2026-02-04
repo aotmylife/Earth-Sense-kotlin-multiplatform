@@ -1,6 +1,7 @@
-### This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop (JVM).
+<img width="1029" height="699" alt="screenshot_desktop" src="https://github.com/user-attachments/assets/c0198114-3f16-4e2c-b4e2-aaaa0c71e81c" />### This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop (JVM).
 
 <img src="screenshot.png" width="500" height="500" alt="App Preview">
+<img src="screenshot_desktop.png" width="500" height="500" alt="App Preview">
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
